@@ -11,7 +11,6 @@ public static void main(String[] args) {
 AnimalFactory af=new DogFactory();  
   
 Animal1 a=af.getAnimal();  
-  
 }  
   
 }  
